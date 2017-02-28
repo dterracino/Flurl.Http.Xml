@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <PackageReference Include="Flurl.Http" Version="1.1.1" />
+    <PackageReference Include="System.Net.Primitives" Version="4.3.0" />
     <PackageReference Include="System.Xml.XmlSerializer" Version="4.3.0" />
   </ItemGroup>
 
